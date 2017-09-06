@@ -2,8 +2,8 @@
   "name": "lara-hrm/lara-hrm-core",
   "description": "core from lara-hrm",
   "require": {
-    "php": ">=7.*",
-    "laravel/framework": "v5.5.*"
+    "php": ">=7.0.0",
+    "laravel/laravel": "v5.5.*"
   },
   "license": "MIT",
   "authors": [
